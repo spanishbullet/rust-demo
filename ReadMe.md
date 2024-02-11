@@ -20,8 +20,6 @@ Rust Playground is a web-based tool that offers a convenient platform for experi
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Learn Rust](https://www.rust-lang.org/learn)
 - [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
 - [Exercism](https://exercism.org/tracks/rust)
